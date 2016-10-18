@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xslt" ?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Pesho Peshev</name>
+    <sex>Male</sex>
+    <birth-date>1985-05-05</birth-date>
+    <phone>0895 63 63 63</phone>
+    <email>pesho@peshev.com</email>
+    <course>Databases</course>
+    <specialty>Hacker</specialty>
+    <faculty-number>8061232</faculty-number>
+    <exams>
+      <exam>
+        <name>CSharp Fundamentals</name>
+        <tutor>Nikolay Kostov</tutor>
+        <score>350</score>
+      </exam>
+      <exam>
+        <name>CSharp Advanced</name>
+        <tutor>Ivaylo Kenov</tutor>
+        <score>250</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Kichka Bodurova</name>
+    <sex>Female</sex>
+    <birth-date>1955-05-20</birth-date>
+    <phone>0885 64 64 64</phone>
+    <email>kichka@bodurova.com</email>
+    <course>Databases</course>
+    <specialty>Ninja</specialty>
+    <faculty-number>7864500</faculty-number>
+    <exams>
+      <exam>
+        <name>JavaScript Applications</name>
+        <tutor>Doncho Minkov</tutor>
+        <score>80</score>
+      </exam>
+      <exam>
+        <name>CSharp OOP</name>
+        <tutor>Nakov</tutor>
+        <score>250</score>
+      </exam>
+    </exams>
+  </student>
+</students>
