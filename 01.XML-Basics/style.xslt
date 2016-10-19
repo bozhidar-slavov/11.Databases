@@ -3,6 +3,18 @@
 
     <xsl:template match="/">
       <html>
+        <style>
+          table {
+          text-align: center;
+          border: 1px solid black;
+          font-size: 20px;
+          }
+          
+          th, td {
+          padding: 10px;
+          }
+        
+        </style>
         <body>
           <table>
             <tr>
