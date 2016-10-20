@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>The Massacre</name>
+    <artist>50 Cent</artist>
+    <year>2005</year>
+    <producer>50 Cent and CO</producer>
+    <price>15.00</price>
+    <songs>
+      <song>
+        <title>Piggy Bank</title>
+        <duration>4:15</duration>
+      </song>
+      <song>
+        <title>Outta Control</title>
+        <duration>3:21</duration>
+      </song>
+      <song>
+        <title>Candy Shop</title>
+        <duration>3:29</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Vavilon</name>
+    <artist>Slavi Trifonov and Kuku Band</artist>
+    <year>1998</year>
+    <producer>Seven-Eight Production</producer>
+    <price>10.00</price>
+    <songs>
+      <song>
+        <title>Moq si</title>
+        <duration>4:50</duration>
+      </song>
+      <song>
+        <title>Magiosnica</title>
+        <duration>4:45</duration>
+      </song>
+      <song>
+        <title>Sveti Georgi</title>
+        <duration>6:23</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Nyama ne iskam</name>
+    <artist>Slavi Trifonov and Kuku Band</artist>
+    <year>1999</year>
+    <producer>Seven-Eight Production</producer>
+    <price>18.00</price>
+    <songs>
+      <song>
+        <title>Ne me moli</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Kamikadze</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Bqlo</title>
+        <duration>5:51</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

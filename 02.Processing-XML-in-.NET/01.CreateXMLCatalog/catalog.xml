@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<catalog>
+  <album>
+    <name>Year of the dog...Again</name>
+    <artist>DMX</artist>
+    <year>2006</year>
+    <producer>Swizz Beatz</producer>
+    <price>22.50</price>
+    <songs>
+      <song>
+        <title>We in Here</title>
+        <duration>3:54</duration>
+      </song>
+      <song>
+        <title>Come Thru</title>
+        <duration>3:42</duration>
+      </song>
+      <song>
+        <title>I Run Shit</title>
+        <duration>3:56</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Perfect Strangers</name>
+    <artist>Deep Purple</artist>
+    <year>1984</year>
+    <producer>Roger Glover and Deep Purple</producer>
+    <price>33.50</price>
+    <songs>
+      <song>
+        <title>Under the Gun</title>
+        <duration>4:40</duration>
+      </song>
+      <song>
+        <title>Mean Streak</title>
+        <duration>4:26</duration>
+      </song>
+      <song>
+        <title>A Gypsy's Kiss</title>
+        <duration>5:14</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Luca Brasi Story</name>
+    <artist>Kevin Gates</artist>
+    <year>2013</year>
+    <producer>Atlantic Records</producer>
+    <price>27.00</price>
+    <songs>
+      <song>
+        <title>Narco Trafficante</title>
+        <duration>5:38</duration>
+      </song>
+      <song>
+        <title>Paper Chasers</title>
+        <duration>3:09</duration>
+      </song>
+      <song>
+        <title>Arms Of a Stranger</title>
+        <duration>2:44</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>The Massacre</name>
+    <artist>50 Cent</artist>
+    <year>2005</year>
+    <producer>50 Cent and CO</producer>
+    <price>15.00</price>
+    <songs>
+      <song>
+        <title>Piggy Bank</title>
+        <duration>4:15</duration>
+      </song>
+      <song>
+        <title>Outta Control</title>
+        <duration>3:21</duration>
+      </song>
+      <song>
+        <title>Candy Shop</title>
+        <duration>3:29</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Vavilon</name>
+    <artist>Slavi Trifonov and Kuku Band</artist>
+    <year>1998</year>
+    <producer>Seven-Eight Production</producer>
+    <price>10.00</price>
+    <songs>
+      <song>
+        <title>Moq si</title>
+        <duration>4:50</duration>
+      </song>
+      <song>
+        <title>Magiosnica</title>
+        <duration>4:45</duration>
+      </song>
+      <song>
+        <title>Sveti Georgi</title>
+        <duration>6:23</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Nyama ne iskam</name>
+    <artist>Slavi Trifonov and Kuku Band</artist>
+    <year>1999</year>
+    <producer>Seven-Eight Production</producer>
+    <price>18.00</price>
+    <songs>
+      <song>
+        <title>Ne me moli</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Kamikadze</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Bqlo</title>
+        <duration>5:51</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
