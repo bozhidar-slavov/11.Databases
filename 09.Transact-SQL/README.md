@@ -1,4 +1,4 @@
-## 06. Transact SQL
+## Transact SQL
 ### _Homework_
 
 1.	Create a database with two tables: `Persons(Id(PK), FirstName, LastName, SSN)` and `Accounts(Id(PK), PersonId(FK), Balance)`.
